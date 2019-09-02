@@ -202,3 +202,4 @@ This cheasheet is aimed at the CTF Players and Beginners to help them sort Vulnh
 193. [C0m80](https://www.hackingarticles.in/hack-c0m80-vm-boot2root-challenge/)
 194. [Teuchter](https://www.hackingarticles.in/hack-the-teuchter-vm-ctf-challenge/)
 195. [Violator](https://www.hackingarticles.in/hack-the-violator-ctf-challenge/)
+196. [Symfonos:4](https://www.hackingarticles.in/symfonos4-vulnhub-walkthrough/)
