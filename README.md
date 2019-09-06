@@ -203,3 +203,6 @@ This cheasheet is aimed at the CTF Players and Beginners to help them sort Vulnh
 194. [Teuchter](https://www.hackingarticles.in/hack-the-teuchter-vm-ctf-challenge/)
 195. [Violator](https://www.hackingarticles.in/hack-the-violator-ctf-challenge/)
 196. [Symfonos:4](https://www.hackingarticles.in/symfonos4-vulnhub-walkthrough/)
+197. [Nightfall](https://www.hackingarticles.in/sunset-nightfall-vulnhub-walkthrough/)
+198. [DC:7](https://www.hackingarticles.in/dc7-vulnhub-walkthrough/)
+199. [AI: Web: 2](https://www.hackingarticles.in/ai-web-2-vulnhub-walkthrough/)
