@@ -206,3 +206,4 @@ This cheasheet is aimed at the CTF Players and Beginners to help them sort Vulnh
 197. [Nightfall](https://www.hackingarticles.in/sunset-nightfall-vulnhub-walkthrough/)
 198. [DC:7](https://www.hackingarticles.in/dc7-vulnhub-walkthrough/)
 199. [AI: Web: 2](https://www.hackingarticles.in/ai-web-2-vulnhub-walkthrough/)
+200. [Prime: 1](https://www.hackingarticles.in/prime-1-vulnhub-walkthrough/)
