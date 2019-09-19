@@ -207,3 +207,5 @@ This cheasheet is aimed at the CTF Players and Beginners to help them sort Vulnh
 198. [DC:7](https://www.hackingarticles.in/dc7-vulnhub-walkthrough/)
 199. [AI: Web: 2](https://www.hackingarticles.in/ai-web-2-vulnhub-walkthrough/)
 200. [Prime: 1](https://www.hackingarticles.in/prime-1-vulnhub-walkthrough/)
+201. [Sunset: dawn](https://www.hackingarticles.in/sunset-dawn-vulnhub-walkthrough/)
+202. [Silky-CTF: 0x02](https://www.hackingarticles.in/silky-ctf-0x02-vulhub-walkthrough/)
