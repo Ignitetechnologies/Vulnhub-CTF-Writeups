@@ -211,9 +211,4 @@ This cheasheet is aimed at the CTF Players and Beginners to help them sort Vulnh
 202. [Silky-CTF: 0x02](https://www.hackingarticles.in/silky-ctf-0x02-vulhub-walkthrough/)
 203. [HA: Infinity Stones](https://www.hackingarticles.in/ha-infinity-stones-vulnhub-walkthrough/)
 204. [DC: 8](https://www.hackingarticles.in/dc8-vulnhub-walkthrough/)
-
-
-
-<!---
-204. [HA: Wordy]()
-!-->
+205. [HA: Wordy](https://www.hackingarticles.in/ha-wordy-vulnhub-walkthrough/)
