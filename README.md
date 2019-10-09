@@ -212,3 +212,6 @@ This cheasheet is aimed at the CTF Players and Beginners to help them sort Vulnh
 203. [HA: Infinity Stones](https://www.hackingarticles.in/ha-infinity-stones-vulnhub-walkthrough/)
 204. [DC: 8](https://www.hackingarticles.in/dc8-vulnhub-walkthrough/)
 205. [HA: Wordy](https://www.hackingarticles.in/ha-wordy-vulnhub-walkthrough/)
+206. [HA: Armour](https://www.hackingarticles.in/ha-armour-walkthrough/)
+207. [Misdirection 1](https://www.hackingarticles.in/misdirection-1-vulnhub-walkthrough/)
+208. [bossplayersCTF 1](https://www.hackingarticles.in/bossplayersctf-1-vulnhub-walkthrough/)
