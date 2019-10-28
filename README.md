@@ -215,3 +215,8 @@ This cheasheet is aimed at the CTF Players and Beginners to help them sort Vulnh
 206. [HA: Armour](https://www.hackingarticles.in/ha-armour-walkthrough/)
 207. [Misdirection 1](https://www.hackingarticles.in/misdirection-1-vulnhub-walkthrough/)
 208. [bossplayersCTF 1](https://www.hackingarticles.in/bossplayersctf-1-vulnhub-walkthrough/)
+209. [Hackerfest:2019](https://www.hackingarticles.in/hacker-fest-2019-vulnhub-walkthrough/)
+210. [HA:ISRO](https://www.hackingarticles.in/ha-isro-vulnhub-walkthrough/)
+211. [HA:Joker](https://www.hackingarticles.in/ha-joker-vulnhub-walkthrough/)
+212. [HA:Naruto](https://www.hackingarticles.in/ha-naruto-vulnhub-walkthrough/)
+
