@@ -219,4 +219,4 @@ This cheasheet is aimed at the CTF Players and Beginners to help them sort Vulnh
 210. [HA:ISRO](https://www.hackingarticles.in/ha-isro-vulnhub-walkthrough/)
 211. [HA:Joker](https://www.hackingarticles.in/ha-joker-vulnhub-walkthrough/)
 212. [HA:Naruto](https://www.hackingarticles.in/ha-naruto-vulnhub-walkthrough/)
-
+213. [LAMPSecurity: CTF 6](https://www.hackingarticles.in/lampsecurity-ctf6-vulnhub-walkthrough/)
