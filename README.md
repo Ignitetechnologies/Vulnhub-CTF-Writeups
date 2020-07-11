@@ -267,4 +267,8 @@ This cheasheet is aimed at the CTF Players and Beginners to help them sort Vulnh
 258. [HA:Pandavas](https://www.hackingarticles.in/ha-pandavas-vulnhub-walkthrough/)
 259. [Glasgow Smile](https://www.hackingarticles.in/glasgow-smile-1-1-vulnhub-walkthrough/)
 260. [GitRoot:1](https://www.hackingarticles.in/gitroot-1-vulnhub-walkthrough/)
+261. [Tre:1](https://www.hackingarticles.in/tre1-vulnhub-walkthrough/)
+262. [eLection:1](https://www.hackingarticles.in/election-1-vulnhub-walkthorugh/)
+263. [Sunset:decoy](https://www.hackingarticles.in/sunset-decoy-vulnhub-walkthrough/)
+264. [CyberSploit:1](https://www.hackingarticles.in/cybersploit-1-vulnhub-walkthrough/)
 
