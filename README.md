@@ -271,4 +271,5 @@ This cheasheet is aimed at the CTF Players and Beginners to help them sort Vulnh
 262. [eLection:1](https://www.hackingarticles.in/election-1-vulnhub-walkthorugh/)
 263. [Sunset:decoy](https://www.hackingarticles.in/sunset-decoy-vulnhub-walkthrough/)
 264. [CyberSploit:1](https://www.hackingarticles.in/cybersploit-1-vulnhub-walkthrough/)
-
+265. [BlackRose:1](https://www.hackingarticles.in/blackrose-1-vulnhub-walkthrough/)
+266. [GreenOptic:1](https://www.hackingarticles.in/greenoptic-1-vulnhub-walkthrough/)
