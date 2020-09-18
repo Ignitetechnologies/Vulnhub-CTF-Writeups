@@ -1,6 +1,6 @@
 # Vulnhub-CTF-Writeups
 
-This cheatsheet is aimed at the CTF Players and Beginners to help them sort Vulnhub Labs. This list contains all the writeups available on hackingarticles. We have performed and compiled this list on our experience. Please share this with your connections and direct queries and feedback to [Pavandeep Singh](https://www.linkedin.com/in/pavan2318).
+This cheatsheet is aimed at the CTF Players and Beginners to help them sort Vulnhub Labs. This list contains all the writeups available on hackingarticles. We have performed and compiled this list on our experience. Please share this with your connections and direct queries and feedback to [Pavandeep Singh](https://twitter.com/pavan2318).
 
 [1.1]: http://i.imgur.com/tXSoThF.png
 [1]: http://www.twitter.com/rajchandel
@@ -279,3 +279,7 @@ This cheatsheet is aimed at the CTF Players and Beginners to help them sort Vuln
 270. [Broken 2020:1](https://www.hackingarticles.in/broken-2020-1-vulnhub-walkthrough/)
 271. [So Simple:1](https://www.hackingarticles.in/so-simple1-vulnhub-walkthrough/)
 272. [Photographer:1](https://www.hackingarticles.in/photographer-1-vulnhub-walkthrough/)
+273. [DMV :1](https://www.hackingarticles.in/dmv-1-vulnhub-walkthrough/)
+274. [CryptoBank: 1](https://www.hackingarticles.in/cryptobank-1-vulnhub-walkthrough/)
+275. [Loly: 1](https://www.hackingarticles.in/loly-1-vulnhub-walkthrough/)
+276. [Tomato: 1](https://www.hackingarticles.in/tomato-1-vulnhub-walkthrough/)
