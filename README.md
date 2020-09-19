@@ -281,5 +281,6 @@ This cheatsheet is aimed at the CTF Players and Beginners to help them sort Vuln
 272. [Photographer:1](https://www.hackingarticles.in/photographer-1-vulnhub-walkthrough/)
 273. [DMV :1](https://www.hackingarticles.in/dmv-1-vulnhub-walkthrough/)
 274. [CryptoBank: 1](https://www.hackingarticles.in/cryptobank-1-vulnhub-walkthrough/)
-275. [Loly: 1](https://www.hackingarticles.in/loly-1-vulnhub-walkthrough/)
-276. [Tomato: 1](https://www.hackingarticles.in/tomato-1-vulnhub-walkthrough/)
+275. [Loly:1](https://www.hackingarticles.in/loly-1-vulnhub-walkthrough/)
+276. [Tomato:1](https://www.hackingarticles.in/tomato-1-vulnhub-walkthrough/)
+276. [Chili:1](https://www.hackingarticles.in/chili-1-vulnhub-walkthrough/)
