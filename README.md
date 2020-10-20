@@ -292,7 +292,7 @@ This cheatsheet is aimed at the CTF Players and Beginners to help them sort Vuln
 283. [Cewlkid:1](https://www.hackingarticles.in/cewlkid-1-vulnhub-walkthrough/)
 284. [Durian:1](https://www.hackingarticles.in/durian-1-vulnhub-walkthrough/)
 285. [HA:Narak](https://www.hackingarticles.in/ha-narak-vulnhub-walkthrough/)
-286. [Relevant:1](hhttps://www.hackingarticles.in/relevant-1-vulnhub-walkthrough/)
+286. [Relevant:1](https://www.hackingarticles.in/relevant-1-vulnhub-walkthrough/)
 287. [PowerGrid:1.0.1](https://www.hackingarticles.in/powergrid-1-0-1-vulnhub-walkthrough/)
 288. [Panabee:1](https://www.hackingarticles.in/panabee-1-vulnhub-walkthrough/)
 289. [Insanity:1](https://www.hackingarticles.in/insanity-1-vulnhub-walkthrough/)
