@@ -298,3 +298,8 @@ This cheatsheet is aimed at the CTF Players and Beginners to help them sort Vuln
 289. [Insanity:1](https://www.hackingarticles.in/insanity-1-vulnhub-walkthrough/)
 290. [Tempus Fugit:3](https://www.hackingarticles.in/tempus-fugit-3-vulnhub-walkthrough/)
 291. [Maskcrafter:1.1](https://www.hackingarticles.in/maskcrafter-1-1-vulnhub-walkthrough/)
+292. [HA: Forensics](https://www.hackingarticles.in/ha-forensics-vulnhub-walkthrough/)
+293. [KB-Vuln:3](https://www.hackingarticles.in/kb-vuln-3-vulnhub-walkthrough/)
+294. [HA: Sherlock](https://www.hackingarticles.in/ha-sherlock-vulnhub-walkthrough/)
+295. [HA: Vedas](https://www.hackingarticles.in/ha-vedas-vulnhub-walkthrough/)
+296. [Cybox:1](https://www.hackingarticles.in/cybox-1-vulnhub-walkthrough/)
