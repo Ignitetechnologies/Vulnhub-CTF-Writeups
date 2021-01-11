@@ -306,3 +306,4 @@ This cheatsheet is aimed at the CTF Players and Beginners to help them sort Vuln
 297. [HA: Vedas](https://www.hackingarticles.in/ha-vedas-vulnhub-walkthrough/)
 298. [Cybox:1](https://www.hackingarticles.in/cybox-1-vulnhub-walkthrough/)
 299. [Hogwarts: Bellatrix](https://www.hackingarticles.in/hogwarts-bellatrix-vulnhub-walkthrough/)
+300. [DevGuru:1](https://www.hackingarticles.in/devguru-1-vulnhub-walkthrough/)
