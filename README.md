@@ -311,3 +311,4 @@ This cheatsheet is aimed at the CTF Players and Beginners to help them sort Vuln
 302. [DarkHole:2](https://www.hackingarticles.in/darkhole-2-vulnhub-walkthrough/)
 303. [Thales:1](https://www.hackingarticles.in/thales1-vulnhub-walkthrough/)
 304. [digital world.local:FALL](https://www.hackingarticles.in/digital-world-local-fall-vulnhub-walkthrough/)
+305. [digital world.local: Vengeance](https://www.hackingarticles.in/digital-world-local-vengeance-vulnhub-walkthrough/)
