@@ -1,11 +1,16 @@
 # Vulnhub-CTF-Writeups
 
-This cheatsheet is aimed at the CTF Players and Beginners to help them sort Vulnhub Labs. This list contains all the writeups available on hackingarticles. We have performed and compiled this list on our experience. Please share this with your connections and direct queries and feedback to [Pavandeep Singh](https://twitter.com/pavan2318).
+This cheatsheet is aimed at the CTF Players and Beginners to help them sort Vulnhub Labs. This list contains all the writeups available on hackingarticles. We have performed and compiled this list on our experience. Please share this with your connections and direct queries and feedback to [Hacking Articles](https://twitter.com/hackinarticles).
 
-[1.1]: http://i.imgur.com/tXSoThF.png
+[1.5]: https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/linked.png
+[1.6]: https://www.linkedin.com/company/hackingarticles/
+[1.3]: https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/discord.png
+[1.4]: https://discord.com/invite/kyKvXwK4Bk
+[1.1]: https://raw.githubusercontent.com/Ignitetechnologies/Windows-Privilege-Escalation/main/twitter.png
 [1]: http://www.twitter.com/hackinarticles
-# Follow us on [![alt text][1.1]][1]
+# Follow us on [![alt text][1.1]][1] [![alt text][1.3]][1.4] [![alt text][1.5]][1.6]
 
+![image](https://github.com/Ignitetechnologies/Vulnhub-CTF-Writeups/blob/master/vulnhub.png?raw=true)
 
 1.	[LAMPSecurity: CTF 4](https://www.hackingarticles.in/hack-the-lampsecurity-ctf4-ctf-challenge/)
 2.	[LAMPSecurity: CTF 5](https://www.hackingarticles.in/hack-the-lampsecurity-ctf-5-ctf-challenge/)
